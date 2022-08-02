@@ -71,7 +71,7 @@
 import DynamicItem from './DynamicItem'
 
 export default {
-    name: 'DynamicForm',
+    name: 'ElementForm2',
     data() {
         return {
             submitButtonLoading: false

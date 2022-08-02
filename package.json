@@ -1,7 +1,10 @@
 {
   "name": "element-form2",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
+  "description": "element-form2 基于vue2+element-ui的动态Form表单",
+  "main": "lib/element-form2.umd.min.js",
+  "keyword": "vue element element-form2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --dest dist examples/main.js",
@@ -25,6 +28,10 @@
     "eslint-plugin-vue": "^8.0.3",
     "vue-template-compiler": "^2.6.14"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjiafeng/element-form2.git"
+},
   "browserslist": [
     "> 1%",
     "last 2 versions",
