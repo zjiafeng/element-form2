@@ -30,8 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zjiafeng/element-form2.git"
-},
+    "url": "https://github.com/zjiafeng/element-form2"
+  },
+  "bugs": {
+    "url": "https://github.com/zjiafeng/element-form2/issues",
+    "email": "2621275142@qq.com"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
